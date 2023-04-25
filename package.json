@@ -6,7 +6,10 @@
   "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "exerc1": "clear && node exercicio1.js Brazil"
+    "exe1": "clear && node exercicio1.js Brazil",
+    "exe2": "clear && node exercicio2.js B",
+    "exe3": "clear && node exercicio3.js Coliroland CL"
+
   },
   "repository": {
     "type": "git",
