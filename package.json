@@ -1,0 +1,21 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "exercicio aula-node",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "exerc1": "clear && node exercicio1.js Brazil"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DioguinhoSantos/node-package-json-template.git"
+  },
+  "author": "Diogo Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DioguinhoSantos/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/DioguinhoSantos/node-package-json-template#readme"
+}
